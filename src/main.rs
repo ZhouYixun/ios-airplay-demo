@@ -21,5 +21,5 @@ mod airplay_bonjour;
 use crate::airplay_bonjour::AirPlayBonjour;
 
 fn main() {
-    AirPlayBonjour::new().expect("")
+    AirPlayBonjour::new()
 }

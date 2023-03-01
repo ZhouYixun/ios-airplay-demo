@@ -34,7 +34,7 @@ impl AirPlayBonjour {
             &instance_name,
             service_hostname,
             my_addrs,
-            4458,
+            4459,
             &vec![
                 ("deviceid", "73:6f:6e:69:63:00"),
                 ("features", "0x5A7FFFF7,0x1E"),
@@ -57,7 +57,7 @@ impl AirPlayBonjour {
             &airtunes_instance,
             service_hostname,
             my_addrs,
-            4459,
+            4460,
             &vec![
                 ("ch", "2"),
                 ("cn", "0,1,2,3"),
